@@ -1,0 +1,70 @@
+button {
+    background-color: royalblue;
+    border-radius: 5px;
+    color: white;
+    margin-bottom: none;
+    margin-top: 10px;
+    font-size: 9px;
+    height: 20px;
+    width: 72px;
+}
+.image {
+    align-self: auto;
+    content:url("http://clipart-library.com/images/6Tp5r7aRc.png");
+    margin-left: 820px;
+    max-height:100%;
+}
+.input {
+  display: flex;
+}
+.weightInput {
+  display: block;
+}
+h1 {
+  background-image: url("http://clipart-library.com/images/BcaKKpeni.png");
+  background-position: right;
+  background-size: 25%;
+  color: White;
+  font-family: 'Courier New', Courier, monospace;
+  height: 80px;
+}
+html {
+  background-image: url("https://images.unsplash.com/photo-1541873676-a18131494184?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60");
+  background-repeat: no-repeat;
+  background-size: 100%;
+ }
+input.rounded {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  height: 13px;
+  margin-left: 3px;
+}
+label {
+  color: white;
+  display: flex;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 9px;
+}
+p {
+  background-color: rgb(230, 227, 227);
+  border-radius: 5px;
+  font-size: 13px;
+  height: 20px;
+  margin: 2px;
+  padding: 3px;
+  width: 670px;
+}
+.user-weight {
+  border-radius: 50px;
+  text-decoration: red;
+  
+}
+
+
+
+
+
+
+
+
+
